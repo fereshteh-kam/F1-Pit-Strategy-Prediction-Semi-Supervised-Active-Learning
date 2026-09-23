@@ -1,0 +1,15 @@
+# data (large CSVs from Kaggle — don't commit)
+data/
+*.csv
+
+# jupyter
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# os
+.DS_Store
