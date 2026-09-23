@@ -54,7 +54,7 @@ model performance before you run out of cheap labels?**
 
 ## 🖼️ Sample plots
 
-![alt text](image.png)
+![alt text](plots/image.png)
 
 ## 📂 Repo structure
 
